@@ -3,21 +3,21 @@
 var p; // shortcut to reference prototypes
 var lib={};var ss={};var img={};
 lib.ssMetadata = [
-		{name:"catcafeFinal_atlas_1", frames: [[0,0,1920,1080]]},
-		{name:"catcafeFinal_atlas_2", frames: [[0,0,1920,1080]]},
-		{name:"catcafeFinal_atlas_3", frames: [[0,0,1920,1080]]},
-		{name:"catcafeFinal_atlas_4", frames: [[0,0,1920,1080]]},
-		{name:"catcafeFinal_atlas_5", frames: [[0,0,1920,1080]]},
-		{name:"catcafeFinal_atlas_6", frames: [[0,0,1920,1080]]},
-		{name:"catcafeFinal_atlas_7", frames: [[0,0,1920,1080]]},
-		{name:"catcafeFinal_atlas_8", frames: [[0,0,1920,1080]]},
-		{name:"catcafeFinal_atlas_9", frames: [[0,0,1920,1080]]},
-		{name:"catcafeFinal_atlas_10", frames: [[0,0,1920,1080]]},
-		{name:"catcafeFinal_atlas_11", frames: [[0,0,1920,1080]]},
-		{name:"catcafeFinal_atlas_12", frames: [[0,0,1920,1080]]},
-		{name:"catcafeFinal_atlas_13", frames: [[0,1082,1740,951],[0,0,1920,1080]]},
-		{name:"catcafeFinal_atlas_14", frames: [[0,953,1609,323],[0,1278,1609,323],[0,0,1740,951]]},
-		{name:"catcafeFinal_atlas_15", frames: [[1935,0,19,106],[1956,0,19,106],[1302,0,631,574],[1302,576,631,574],[0,0,649,610],[651,0,649,610]]}
+		{name:"index_atlas_1", frames: [[0,0,1920,1080]]},
+		{name:"index_atlas_2", frames: [[0,0,1920,1080]]},
+		{name:"index_atlas_3", frames: [[0,0,1920,1080]]},
+		{name:"index_atlas_4", frames: [[0,0,1920,1080]]},
+		{name:"index_atlas_5", frames: [[0,0,1920,1080]]},
+		{name:"index_atlas_6", frames: [[0,0,1920,1080]]},
+		{name:"index_atlas_7", frames: [[0,0,1920,1080]]},
+		{name:"index_atlas_8", frames: [[0,0,1920,1080]]},
+		{name:"index_atlas_9", frames: [[0,0,1920,1080]]},
+		{name:"index_atlas_10", frames: [[0,0,1920,1080]]},
+		{name:"index_atlas_11", frames: [[0,0,1920,1080]]},
+		{name:"index_atlas_12", frames: [[0,0,1920,1080]]},
+		{name:"index_atlas_13", frames: [[0,1082,1740,951],[0,0,1920,1080]]},
+		{name:"index_atlas_14", frames: [[0,953,1609,323],[0,1278,1609,323],[0,0,1740,951]]},
+		{name:"index_atlas_15", frames: [[1935,0,19,106],[1956,0,19,106],[1302,0,631,574],[1302,576,631,574],[0,0,649,610],[651,0,649,610]]}
 ];
 
 
@@ -54,7 +54,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,2817,1672);
 
 
 (lib.CachedBmp_17 = function() {
-	this.initialize(ss["catcafeFinal_atlas_15"]);
+	this.initialize(ss["index_atlas_15"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
@@ -67,14 +67,14 @@ p.nominalBounds = new cjs.Rectangle(0,0,2817,1672);
 
 
 (lib.CachedBmp_13 = function() {
-	this.initialize(ss["catcafeFinal_atlas_15"]);
+	this.initialize(ss["index_atlas_15"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_12 = function() {
-	this.initialize(ss["catcafeFinal_atlas_14"]);
+	this.initialize(ss["index_atlas_14"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
@@ -87,7 +87,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,2540,846);
 
 
 (lib.CachedBmp_10 = function() {
-	this.initialize(ss["catcafeFinal_atlas_14"]);
+	this.initialize(ss["index_atlas_14"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
@@ -106,7 +106,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,2627,799);
 
 
 (lib.CachedBmp_7 = function() {
-	this.initialize(ss["catcafeFinal_atlas_13"]);
+	this.initialize(ss["index_atlas_13"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
@@ -119,112 +119,112 @@ p.nominalBounds = new cjs.Rectangle(0,0,2627,799);
 
 
 (lib.CachedBmp_5 = function() {
-	this.initialize(ss["catcafeFinal_atlas_14"]);
+	this.initialize(ss["index_atlas_14"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_4 = function() {
-	this.initialize(ss["catcafeFinal_atlas_15"]);
+	this.initialize(ss["index_atlas_15"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_3 = function() {
-	this.initialize(ss["catcafeFinal_atlas_15"]);
+	this.initialize(ss["index_atlas_15"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_2 = function() {
-	this.initialize(ss["catcafeFinal_atlas_15"]);
+	this.initialize(ss["index_atlas_15"]);
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_1 = function() {
-	this.initialize(ss["catcafeFinal_atlas_15"]);
+	this.initialize(ss["index_atlas_15"]);
 	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.brownie = function() {
-	this.initialize(ss["catcafeFinal_atlas_1"]);
+	this.initialize(ss["index_atlas_1"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.buttondown = function() {
-	this.initialize(ss["catcafeFinal_atlas_2"]);
+	this.initialize(ss["index_atlas_2"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.buttonup = function() {
-	this.initialize(ss["catcafeFinal_atlas_3"]);
+	this.initialize(ss["index_atlas_3"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.coffecup = function() {
-	this.initialize(ss["catcafeFinal_atlas_4"]);
+	this.initialize(ss["index_atlas_4"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.coffemash = function() {
-	this.initialize(ss["catcafeFinal_atlas_5"]);
+	this.initialize(ss["index_atlas_5"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.darkback = function() {
-	this.initialize(ss["catcafeFinal_atlas_6"]);
+	this.initialize(ss["index_atlas_6"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.darkfore = function() {
-	this.initialize(ss["catcafeFinal_atlas_7"]);
+	this.initialize(ss["index_atlas_7"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.donut = function() {
-	this.initialize(ss["catcafeFinal_atlas_8"]);
+	this.initialize(ss["index_atlas_8"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.quackson = function() {
-	this.initialize(ss["catcafeFinal_atlas_9"]);
+	this.initialize(ss["index_atlas_9"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.tea = function() {
-	this.initialize(ss["catcafeFinal_atlas_10"]);
+	this.initialize(ss["index_atlas_10"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.teacup = function() {
-	this.initialize(ss["catcafeFinal_atlas_11"]);
+	this.initialize(ss["index_atlas_11"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
@@ -309,14 +309,14 @@ p.nominalBounds = new cjs.Rectangle(0,0,2360,1640);
 
 
 (lib.waffle = function() {
-	this.initialize(ss["catcafeFinal_atlas_12"]);
+	this.initialize(ss["index_atlas_12"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.walls = function() {
-	this.initialize(ss["catcafeFinal_atlas_13"]);
+	this.initialize(ss["index_atlas_13"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
@@ -1048,7 +1048,7 @@ p.nominalBounds = new cjs.Rectangle(-1126.4,-890.9,2413,1645);
 
 
 // stage content:
-(lib.catcafeFinal = function(mode,startPosition,loop,reversed) {
+(lib.index = function(mode,startPosition,loop,reversed) {
 if (loop == null) { loop = true; }
 if (reversed == null) { reversed = false; }
 	var props = new Object();
@@ -1586,41 +1586,41 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/CachedBmp_18.png", id:"CachedBmp_18"},
-		{src:"images/CachedBmp_16.png", id:"CachedBmp_16"},
-		{src:"images/CachedBmp_14.png", id:"CachedBmp_14"},
-		{src:"images/CachedBmp_11.png", id:"CachedBmp_11"},
-		{src:"images/CachedBmp_9.png", id:"CachedBmp_9"},
-		{src:"images/CachedBmp_8.png", id:"CachedBmp_8"},
-		{src:"images/CachedBmp_6.png", id:"CachedBmp_6"},
-		{src:"images/thumb1.png", id:"thumb1"},
-		{src:"images/thumb2.png", id:"thumb2"},
-		{src:"images/thumb3.png", id:"thumb3"},
-		{src:"images/thumb3real.png", id:"thumb3real"},
-		{src:"images/w0.png", id:"w0"},
-		{src:"images/w1.png", id:"w1"},
-		{src:"images/w2.png", id:"w2"},
-		{src:"images/w3.png", id:"w3"},
-		{src:"images/w4.png", id:"w4"},
-		{src:"images/w5.png", id:"w5"},
-		{src:"images/w6.png", id:"w6"},
-		{src:"images/w7.png", id:"w7"},
-		{src:"images/w8.png", id:"w8"},
-		{src:"images/catcafeFinal_atlas_1.png", id:"catcafeFinal_atlas_1"},
-		{src:"images/catcafeFinal_atlas_2.png", id:"catcafeFinal_atlas_2"},
-		{src:"images/catcafeFinal_atlas_3.png", id:"catcafeFinal_atlas_3"},
-		{src:"images/catcafeFinal_atlas_4.png", id:"catcafeFinal_atlas_4"},
-		{src:"images/catcafeFinal_atlas_5.png", id:"catcafeFinal_atlas_5"},
-		{src:"images/catcafeFinal_atlas_6.png", id:"catcafeFinal_atlas_6"},
-		{src:"images/catcafeFinal_atlas_7.png", id:"catcafeFinal_atlas_7"},
-		{src:"images/catcafeFinal_atlas_8.png", id:"catcafeFinal_atlas_8"},
-		{src:"images/catcafeFinal_atlas_9.png", id:"catcafeFinal_atlas_9"},
-		{src:"images/catcafeFinal_atlas_10.png", id:"catcafeFinal_atlas_10"},
-		{src:"images/catcafeFinal_atlas_11.png", id:"catcafeFinal_atlas_11"},
-		{src:"images/catcafeFinal_atlas_12.png", id:"catcafeFinal_atlas_12"},
-		{src:"images/catcafeFinal_atlas_13.png", id:"catcafeFinal_atlas_13"},
-		{src:"images/catcafeFinal_atlas_14.png", id:"catcafeFinal_atlas_14"},
-		{src:"images/catcafeFinal_atlas_15.png", id:"catcafeFinal_atlas_15"}
+		{src:"images/CachedBmp_18.png?1669762750096", id:"CachedBmp_18"},
+		{src:"images/CachedBmp_16.png?1669762750096", id:"CachedBmp_16"},
+		{src:"images/CachedBmp_14.png?1669762750096", id:"CachedBmp_14"},
+		{src:"images/CachedBmp_11.png?1669762750096", id:"CachedBmp_11"},
+		{src:"images/CachedBmp_9.png?1669762750096", id:"CachedBmp_9"},
+		{src:"images/CachedBmp_8.png?1669762750096", id:"CachedBmp_8"},
+		{src:"images/CachedBmp_6.png?1669762750096", id:"CachedBmp_6"},
+		{src:"images/thumb1.png?1669762750096", id:"thumb1"},
+		{src:"images/thumb2.png?1669762750096", id:"thumb2"},
+		{src:"images/thumb3.png?1669762750096", id:"thumb3"},
+		{src:"images/thumb3real.png?1669762750096", id:"thumb3real"},
+		{src:"images/w0.png?1669762750096", id:"w0"},
+		{src:"images/w1.png?1669762750096", id:"w1"},
+		{src:"images/w2.png?1669762750096", id:"w2"},
+		{src:"images/w3.png?1669762750096", id:"w3"},
+		{src:"images/w4.png?1669762750096", id:"w4"},
+		{src:"images/w5.png?1669762750096", id:"w5"},
+		{src:"images/w6.png?1669762750096", id:"w6"},
+		{src:"images/w7.png?1669762750096", id:"w7"},
+		{src:"images/w8.png?1669762750096", id:"w8"},
+		{src:"images/index_atlas_1.png?1669762749995", id:"index_atlas_1"},
+		{src:"images/index_atlas_2.png?1669762749995", id:"index_atlas_2"},
+		{src:"images/index_atlas_3.png?1669762749995", id:"index_atlas_3"},
+		{src:"images/index_atlas_4.png?1669762749995", id:"index_atlas_4"},
+		{src:"images/index_atlas_5.png?1669762749995", id:"index_atlas_5"},
+		{src:"images/index_atlas_6.png?1669762749995", id:"index_atlas_6"},
+		{src:"images/index_atlas_7.png?1669762749995", id:"index_atlas_7"},
+		{src:"images/index_atlas_8.png?1669762749995", id:"index_atlas_8"},
+		{src:"images/index_atlas_9.png?1669762749995", id:"index_atlas_9"},
+		{src:"images/index_atlas_10.png?1669762749995", id:"index_atlas_10"},
+		{src:"images/index_atlas_11.png?1669762749995", id:"index_atlas_11"},
+		{src:"images/index_atlas_12.png?1669762749995", id:"index_atlas_12"},
+		{src:"images/index_atlas_13.png?1669762749995", id:"index_atlas_13"},
+		{src:"images/index_atlas_14.png?1669762749995", id:"index_atlas_14"},
+		{src:"images/index_atlas_15.png?1669762749996", id:"index_atlas_15"}
 	],
 	preloads: []
 };
